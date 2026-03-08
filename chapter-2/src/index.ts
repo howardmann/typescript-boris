@@ -19,3 +19,12 @@ let capitalize =  (string: string) => {
 console.log(capitalize("hello world"))
 
 let x = b + 42
+
+let squareOf = (n:number) => {
+  return n * n
+}
+
+console.log(squareOf(5))
+
+
+

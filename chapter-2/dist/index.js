@@ -14,4 +14,8 @@ let capitalize = (string) => {
 };
 console.log(capitalize("hello world"));
 let x = b + 42;
+let squareOf = (n) => {
+    return n * n;
+};
+console.log(squareOf(5));
 //# sourceMappingURL=index.js.map
